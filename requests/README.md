@@ -10,8 +10,8 @@ The project displays the list of the requests in the table and allows to create 
 
 The "Create" button renders the form that allow to crate new request.
 
-The X button allows to delete existing request.
+The "Delete" button (delete icon) allows to delete existing request.
 
-The "Edit" button (icon) that is located to the right side of each request renders the edit form on the top of the page that allows update existing request.
+The "Edit" button (edit icon) that is located to the right side of each request renders the edit form on the top of the page that allows update existing request.
 
 
